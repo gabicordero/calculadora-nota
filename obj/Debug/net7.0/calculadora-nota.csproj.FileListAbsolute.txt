@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\C\CsharpProjects\calculadora-nota\bin\Debug\net7.0\calculadora-nota.exe
+C:\Users\Usuario\Desktop\C\CsharpProjects\calculadora-nota\bin\Debug\net7.0\calculadora-nota.deps.json
+C:\Users\Usuario\Desktop\C\CsharpProjects\calculadora-nota\bin\Debug\net7.0\calculadora-nota.runtimeconfig.json
+C:\Users\Usuario\Desktop\C\CsharpProjects\calculadora-nota\bin\Debug\net7.0\calculadora-nota.dll
+C:\Users\Usuario\Desktop\C\CsharpProjects\calculadora-nota\bin\Debug\net7.0\calculadora-nota.pdb
+C:\Users\Usuario\Desktop\C\CsharpProjects\calculadora-nota\obj\Debug\net7.0\calculadora-nota.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\C\CsharpProjects\calculadora-nota\obj\Debug\net7.0\calculadora-nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\C\CsharpProjects\calculadora-nota\obj\Debug\net7.0\calculadora-nota.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\C\CsharpProjects\calculadora-nota\obj\Debug\net7.0\calculadora-nota.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\C\CsharpProjects\calculadora-nota\obj\Debug\net7.0\calculadora-nota.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C\CsharpProjects\calculadora-nota\obj\Debug\net7.0\calculadora-nota.dll
+C:\Users\Usuario\Desktop\C\CsharpProjects\calculadora-nota\obj\Debug\net7.0\refint\calculadora-nota.dll
+C:\Users\Usuario\Desktop\C\CsharpProjects\calculadora-nota\obj\Debug\net7.0\calculadora-nota.pdb
+C:\Users\Usuario\Desktop\C\CsharpProjects\calculadora-nota\obj\Debug\net7.0\calculadora-nota.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\C\CsharpProjects\calculadora-nota\obj\Debug\net7.0\ref\calculadora-nota.dll
